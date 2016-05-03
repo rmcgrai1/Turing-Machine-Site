@@ -1,0 +1,21 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
+
+body {
+	width: 100vw;
+	height: 100vh;
+}
+
+canvas {
+	display: block;
+	width: 100vw;
+}
+
+#canvas-tape {
+	height: 160px;
+}
+#canvas-diagram {
+	height: 480px;
+}
